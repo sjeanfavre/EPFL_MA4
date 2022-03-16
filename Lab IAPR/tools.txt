@@ -1,0 +1,1 @@
+https://github.com/theodorhusefest/image_analysis_pattern_recognition/blob/master/labs/lab1/lab_01_segmentation.ipynb
