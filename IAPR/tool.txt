@@ -1,0 +1,1 @@
+https://github.com/ndelamaide/IAPR_course/blob/master/labs/lab_01_segmentation.ipynb
